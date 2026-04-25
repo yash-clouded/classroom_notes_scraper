@@ -2,6 +2,8 @@
 
 A browser-based JavaScript tool to extract and download all materials from the Google Classroom Classwork section with deduplication, filtering, and retry support.
 
+The code is in Main.js
+
 ⸻
 
 🚀 Features
